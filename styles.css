@@ -1,0 +1,19 @@
+p {
+    text-align: center;
+    color: green;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background-image: url("nothingback.jpg");   
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+
+
